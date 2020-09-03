@@ -1,0 +1,31 @@
+.header {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  min-height: 120px;
+  border-top: 5px solid #f1c40f;
+}
+
+.left,
+.lang {
+  flex: 1;
+  text-align: right;
+}
+
+.logo img {
+  width: 160px;
+}
+
+select {
+  border: none;
+}
+
+.lang label,
+.lang select {
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+.lang select {
+  cursor: pointer;
+}

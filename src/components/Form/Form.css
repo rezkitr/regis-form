@@ -1,0 +1,29 @@
+label {
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+
+.checkbox-label {
+  font-weight: 500;
+}
+
+.star {
+  font-size: 1.5rem;
+  color: red;
+  margin: 0;
+  padding: 0;
+}
+
+.privacy-note {
+  font-size: 0.8rem;
+  font-style: italic;
+}
+
+.service {
+  font-size: 0.8rem;
+  font-weight: 400;
+}
+
+#country {
+  text-transform: uppercase;
+}

@@ -1,0 +1,8 @@
+.info-bar {
+  display: flex;
+  background-color: #f1c40f;
+  justify-content: center;
+  padding: 8px 0;
+  font-size: 1rem;
+  font-weight: 600;
+}
